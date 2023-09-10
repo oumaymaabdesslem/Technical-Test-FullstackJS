@@ -1,1 +1,1 @@
-# fullstackjs
+# Technical test FullstackJS
